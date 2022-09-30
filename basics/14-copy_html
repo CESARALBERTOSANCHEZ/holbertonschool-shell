@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -a files.html /tmp
+cp -a file.html /tmp
