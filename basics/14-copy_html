@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -a -rw-r--r-- 1 root root 0 /tmp/
+cp -n .html 
