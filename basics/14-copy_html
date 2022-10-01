@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -n *.html tmp/basics
+cp -n *.html tmp
