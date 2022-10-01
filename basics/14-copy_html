@@ -1,2 +1,0 @@
-#!/bin/bash
-cp -n *.html /tmp/file_0.html
