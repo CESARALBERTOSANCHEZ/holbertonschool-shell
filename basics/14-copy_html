@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -n *.html /tmp/file_0.html /root
+mv -n *.html ~/tmp
